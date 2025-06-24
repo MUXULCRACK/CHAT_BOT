@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "chatbot-bienestarup",
+  "private_key_id": "222277f89db7b2e597a32d4009f07d77e22ea416",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCxzinM7i3OmnqD\nzd8xlVBfXaNbpcomSzKrB+k0Uj2ubglHBio8Ceuyjr/f9Ryc/0faCNrUpAgTiQcF\nr5awrsntbtXQ8rmBMUdJe1OWAm7Y1NTEPwD15YD2KRpvZp7qvMV5nCzNXXNreFos\n5oiaA/h2lVO0TumZuQ+1ercd05I29abbfgM3HTD0EtuXvH48COogBfu19Rbed90B\nzJImTR28yAhFX5+xekRrMSMIG5a+IJPytlAwIQ3OpAcSzzoYRjeAmdOH9gI02nsA\nFihPXjEuC6radVBLvdvp6Huq8Xzcz//YHtY64EZ8ilV3zCkF8spXgB2rmMhonvkM\nDvtKc4mfAgMBAAECgf9FzSmbyeUxtnNiSu/UB0oGJjx7Phqd7ed2PSTP5XlRgOEj\ngMgTydE9x8yLny4cdBtA/TjrQXnqMWEQWl5N/lBHZbuKy78HeNEDh+bIfSwG84aT\nhChcYDzAZmJ6WU8J2BGuLCFqfcVR6217MwVtcSGZbAXwQwpxzrTcCdDZZLWB3UY6\nbcJsOroyaidzYnpOrpFeu17EJdNrjfQUNNQl6TU6vNoZQrSa3irMxvg9uM4rNZNH\nbANAW596ZFvi1ykCw/Oh45DZogA5sq6kQDJ1OoJygJfc+//0qyz89kv417sh4x/M\nMfoaYRhbP4U4LWMPwj3lRlCz+Mli8ZnWHs32UyUCgYEA5JeZnWGjzjODKks3fiZV\nrh6f1MqmF+sM2zNpJv8Vbm/Cbs3YWMvyAdLUzRjF5PVDv9HJYN0U2LdgzpkLxO47\nsaUcS62wD7KxlmAnvm3EspBslZbQ4FVEAq6bs00dRfVbX+afKYMcPRd+nOpKwdg0\nJRfc9JDFxob3v99HjfSTKiUCgYEAxx+2lBAW7woR+4Mv2WL8Jjis3Q2mpFmdADFT\nGLzlQ/VHnvptB469Dzj62liO47wWyz454iWGy8wUgulVzrKCVv5IzpErlJ7yXME3\na+WcH+tIX3o1+vDzyEZpWbpy5rqTz97arTtQ564KwtMNO0RMhQO8GJq61apM09gn\n3TRuv3MCgYAg9FoI/lKHH5YBOua9IPmpKHESVEStng00bKz0GkIUsbfuEW7nHj+9\nU4+qIbAl2dXyiWPmuviOZaFnJ1kzAsVITu1NW7TODozbiPEx2tFIjNmalyt1q9Uq\nLdH0f2GA/GY35R989JHVnNV7+ardVzXtQwtvlo9sl3iQCLhgFqpAoQKBgQCRbu4w\n8hdt+1Lq+gPmqE81s0s+IIxHmVP8IgppFP32Rp1K1ejwDiaziZBeDTQ/zM5xHz+z\nlmj/TEzm2HldgC+GTi7rAEhuQjEN4ekSmx8OiQ/Q/DeU0oubCSJE8NKfBkKTHldl\nEt+idxFQ/ki5ssaYmAO3jLtM9xcp2sQy4erJVQKBgCaLNugG09MrEvxA4TRsezsp\nvgAwjFGMEDsrSfFzqd0xkco8mXjl3iE8IxX2AmJf1/Qbft7pjf8voNdkMx2SwoHC\n6jqehm5w0yQlpU3jN7lsiEtIt2MLc/lOtT6ctch6cLShqq6Bn4DEJFrDA2/dbA2f\nFiYgeL3Ad0CxDF1vw1Eb\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@chatbot-bienestarup.iam.gserviceaccount.com",
+  "client_id": "105329384237797074718",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40chatbot-bienestarup.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

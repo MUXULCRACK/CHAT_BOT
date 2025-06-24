@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Bienestar Universitario</title>
+  <link rel="stylesheet" href="/public/css/styles.css">
+</head>
+<body class="chat-body">
+
+  <!-- Contenedor principal del chat -->
+  <div class="chat-wrapper">
+    <div class="chat-header">
+      <div class="chat-title">
+        🤖 <strong>Bienestar Universitario UP</strong>
+      </div>
+      <div class="user-controls">
+        👤 <%= user %>
+        <a href="/historial" class="btn-link">📘 Historial</a>
+        <a href="/logout" class="btn-link logout">📕 Cerrar sesión</a>
+      </div>
+    </div>
+
+    <div class="chat-box" id="chat-box">
+      <!-- Los mensajes se insertan aquí dinámicamente -->
+    </div>
+
+    <form id="chat-form" class="chat-form">
+      <input type="text" id="user-input" name="message" placeholder="Escribe tu mensaje..." autocomplete="off" required />
+      <button type="submit">Enviar</button>
+    </form>
+  </div>
+
+  <script src="/public/js/chatbot.js"></script>
+</body>
+</html>
